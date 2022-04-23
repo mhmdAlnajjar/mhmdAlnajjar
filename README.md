@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Al-Najjar</h1>
-<h3 align="center">A Full-Stack developer from Jordan</h3>
+<h3 align="center">A Full-stack Web developer from Jordan</h3>
 
 - 🔭 I’m currently working on [CARSEER](carseer.com)
 
